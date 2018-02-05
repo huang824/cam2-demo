@@ -25,7 +25,7 @@ SECRET_KEY = '94-t0qlx#)3#n_-^6j&rt_i#inv582apjhco%%c9t8w6z55_=z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['cam2-demo.heroku.com']
+ALLOWED_HOSTS = ['cam2demo.heroku.com']
 
 
 # Application definition
